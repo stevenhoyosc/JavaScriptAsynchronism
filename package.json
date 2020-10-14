@@ -4,7 +4,9 @@
   "description": "examples with asyncronism with Js",
   "main": "src/index.js",
   "scripts": {
-    "callback:exercise": "node src/callback/CallbackEx.js"
+    "callback:exercise": "node src/callback/CallbackEx.js",
+    "promises:exercise": "node src/promises/PromisesEx.js",
+    "async:exercise": "node src/async/AsyncAwEx.js"
   },
   "keywords": [
     "callbacks",
