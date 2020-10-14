@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "examples with asyncronism with Js",
+  "main": "src/index.js",
+  "scripts": {
+    "callback:exercise": "node src/callback/CallbackEx.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "stevenhoyosc",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
